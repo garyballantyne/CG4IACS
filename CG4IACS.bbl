@@ -1,0 +1,99 @@
+%
+% This bibliography was produced by using jurabib.bst
+%
+\begin{thebibliography}{}
+
+\bibitem[{Chein\jbbtasep Mugnier\jbdy {2009}}%
+         {GBKR}%
+         {{0}{}{book}{2009}{}{}{}{}%
+          {Springer\bibbdsep {} 2009}}%
+         {{Graph-based knowledge representation; computational foundations of
+  conceptual graphs}%
+          {}{}{2}{}{}{}{}{}}%
+        ]{Chein09}
+ \jbbibargs {\bibnf {Chein} {M.} {M.} {} {}\Bibbtasep \bibnf {Mugnier} {M-L.}
+  {M.-L.} {} {}} {M. CheinM-L. Mugnier} {aus} {\bibtfont {Graph-based knowledge
+  representation; computational foundations of conceptual graphs}\bibatsep\
+  \apyformat {Springer\bibbdsep {} 2009}} {\bibhowcited} \jbdoitem
+  {{Chein}{M.}{M.}{}{}; {Mugnier}{M-L.}{M.-L.}{}{}} {} {} \bibAnnoteFile
+  {Chein09}
+
+\bibitem[{Pressman\jbdy {2009}}%
+         {}%
+         {{0}{}{book}{2009}{14}{}{}{}%
+          {Nolo\bibbdsep {} 2009}}%
+         {{Patent it Yourself}%
+          {}{}{2}{}{}{}{}{}}%
+        ]{Pressman09}
+ \jbbibargs {\bibnf {Pressman} {D.} {D.} {} {}} {D. Pressman} {au} {\bibtfont
+  {Patent it Yourself}\bibatsep\ \jbedition {14\thedname~\editionname
+  {}\jbaensep}  \apyformat {Nolo\bibbdsep {} \jbssedbd {14}2009}}
+  {\bibhowcited} \jbdoitem {{Pressman}{D.}{D.}{}{}} {} {} \bibAnnoteFile
+  {Pressman09}
+
+\bibitem[{Sage\jbdy {2000}}%
+         {Systems, Man, and Cybernetics, Part C: Applications and Reviews, IEEE
+  Transactions on 30  \peryearformat {2000}}%
+         {{0}{}{article}{2000}{}{}{}{164 --174}%
+          {2000}}%
+         {{Systems engineering education}%
+          {}{}{2}{}{}{}{}{}}%
+        ]{Sage00}
+ \jbbibargs {\bibnf {Sage} {A.P.} {A.} {} {}} {A.P. Sage} {au} {\bibapifont
+  {Systems engineering education}\bibatsep\ \bibJTsep \bibjtfont {Systems, Man,
+  and Cybernetics, Part C: Applications and Reviews, IEEE Transactions
+  on}\ajtsep\  \artvolumeformat {30}\ May \artyearformat {2000}\artnumberformat
+  {2} \jbPages{164 --174}} {\bibartperiodhowcited} \jbdoitem
+  {{Sage}{A.P.}{A.}{}{}} {} {} \bibAnnoteFile {Sage00}
+
+\bibitem[{Slusky\jbdy {2007}}%
+         {IA\&C}%
+         {{0}{}{book}{2007}{}{}{}{}%
+          {ABA Publishing\bibbdsep {} 2007}}%
+         {{Invention Analysis and Claiming: A Patent Lawyer's Guide}%
+          {}{}{2}{}{}{}{}{}}%
+        ]{Slusky07}
+ \jbbibargs {\bibnf {Slusky} {R.D.} {R.} {} {}} {R.D. Slusky} {au} {\bibtfont
+  {Invention Analysis and Claiming: A Patent Lawyer's Guide}\bibatsep\
+  \apyformat {ABA Publishing\bibbdsep {} 2007}} {\bibhowcited} \jbdoitem
+  {{Slusky}{R.D.}{R.}{}{}} {} {} \bibAnnoteFile {Slusky07}
+
+\bibitem[{Sowa\jbdy {1984}}%
+         {CS}%
+         {{1}{}{book}{1984}{}{}{}{}%
+          {Addison-Wesley\bibbdsep {} 1984}}%
+         {{Conceptual Structures; information processing in mind and machine}%
+          {}{}{2}{}{}{}{}{}}%
+        ]{Sowa84}
+ \jbbibargs {\bibnf {Sowa} {J.F.} {J.} {} {}} {J.F. Sowa} {au} {\bibtfont
+  {Conceptual Structures; information processing in mind and machine}\bibatsep\
+   \apyformat {Addison-Wesley\bibbdsep {} 1984}} {\bibhowcited} \jbdoitem
+  {{Sowa}{J.F.}{J.}{}{}} {} {} \bibAnnoteFile {Sowa84}
+
+\bibitem[{Sowa\jbdy {2000}}%
+         {KR}%
+         {{1}{}{book}{2000}{}{}{}{}%
+          {Brooks/Cole\bibbdsep {} 2000}}%
+         {{Kowledge Representation; logical, philosophical and computational
+  foundations}%
+          {}{}{2}{}{}{}{}{}}%
+        ]{Sowa00}
+ \jbbibargs {\bibnf {Sowa} {J.F.} {J.} {} {}} {J.F. Sowa} {au} {\bibtfont
+  {Kowledge Representation; logical, philosophical and computational
+  foundations}\bibatsep\  \apyformat {Brooks/Cole\bibbdsep {} 2000}}
+  {\bibhowcited} \jbdoitem {{Sowa}{J.F.}{J.}{}{}} {} {} \bibAnnoteFile {Sowa00}
+
+\bibitem[{Sowa\jbdy {2008}}%
+         {HKR}%
+         {{1}{}{inbook}{2008}{}{}{}{213--237}%
+          {Elsevier\bibbdsep {} 2008}}%
+         {{~Handbook of Knowledge Representation}%
+          {}{}{2}{}{}{}{}{}}%
+        ]{Sowa08}
+ \jbbibargs {\bibnf {Sowa} {J.F.} {J.} {} {}} {J.F. Sowa} {au}
+  {\Bibchaptername{}~5 In \bibapifont {~Handbook of Knowledge
+  Representation}\bibatsep\  \apyformat {Elsevier\bibbdsep {} 2008}
+  \jbPages{213--237} } {\bibhowcited} \jbdoitem {{Sowa}{J.F.}{J.}{}{}} {} {}
+  \bibAnnoteFile {Sowa08}
+
+\end{thebibliography}
